@@ -6,8 +6,8 @@
 - Enchantment Upgrading
 - Underneath spawners in Lost Cities
   
-## Client Pack (For playing on servers and singleplayer)
-https://drive.google.com/file/d/1uG82g1_D57Aumws_I2Jzbz6-WiTtfLVW/view?usp=sharing
+## Client Pack (For playing on singleplayer and servers)
+https://drive.google.com/file/d/1l_LRE2V2-6p3qyUH3AxPEKqvygn42UMR/view?usp=sharing
 
 ## Server Pack (Only get this if you plan to host your own server)
-https://drive.google.com/file/d/1bm5jpegVstojH8WpgdWPqhIz-z2bbWpz/view?usp=sharing
+https://drive.google.com/file/d/1CzbtMvHQ8Ns4QbQcIvrhbvqgJn0iD0Nq/view?usp=sharing
