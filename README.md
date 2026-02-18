@@ -7,7 +7,7 @@
 - Underneath spawners in Lost Cities
   
 ## Client Pack (For playing on singleplayer and servers)
-https://drive.google.com/file/d/1l_LRE2V2-6p3qyUH3AxPEKqvygn42UMR/view?usp=sharing
+https://drive.google.com/file/d/1Phdr2cp_v3xWZvPuITw56swoT57ScTD7/view?usp=sharing
 1. You download the zip
 2. Import it in Curse Forge as a new profile
 
