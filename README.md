@@ -14,4 +14,4 @@ https://drive.google.com/file/d/1Phdr2cp_v3xWZvPuITw56swoT57ScTD7/view?usp=shari
 
 
 ## Server Pack (Only get this if you plan to host your own server)
-https://drive.google.com/file/d/1CzbtMvHQ8Ns4QbQcIvrhbvqgJn0iD0Nq/view?usp=sharing
+https://drive.google.com/file/d/1ZmEpLG6r8RAgkprQ3WXUS9pT0PBxkuA8/view?usp=sharing
